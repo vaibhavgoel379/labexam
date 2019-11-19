@@ -1,4 +1,2 @@
-a=input("Enter First Number: ")
-b=input("Enter Second Number: ")
-c=a-b
-print "The Subtraction is ",c
+def sub(a,b):
+  return a-b
